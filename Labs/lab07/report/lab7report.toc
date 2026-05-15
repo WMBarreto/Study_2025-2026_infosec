@@ -1,0 +1,7 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\nonumberline Цель работы}{5}{chapter*.4}%
+\contentsline {chapter}{\nonumberline Задание}{6}{chapter*.5}%
+\contentsline {chapter}{\nonumberline Выполнение лабораторной работы}{7}{chapter*.6}%
+\contentsline {chapter}{\nonumberline Выводы}{9}{chapter*.11}%
+\contentsline {chapter}{Список литературы}{10}{chapter*.12}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
